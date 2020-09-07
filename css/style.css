@@ -1,0 +1,42 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(128, 250, 128);
+}
+
+.quemeohunt{
+    background-color: rgb(145, 145, 228);
+}
+
+.oqueohuntgosta{
+    background-color: rgb(145, 225, 228);
+}
+
+.sobresuafamilia{
+    background-color: rgb(228, 145, 145);
+}
+
+.img{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.titulo{
+    margin-bottom: 50px;
+}
+
+.section{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 10px;
+}
